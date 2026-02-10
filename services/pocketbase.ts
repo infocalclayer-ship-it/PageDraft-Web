@@ -1,5 +1,5 @@
 
-import PocketBase from 'https://cdn.jsdelivr.net/npm/pocketbase@0.21.1/+esm';
+import PocketBase from 'pocketbase';
 
 // IMPORTANT: Change this URL to your own PocketBase instance if needed
 const PB_URL = 'https://pagedraft.pockethost.io'; 
